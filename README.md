@@ -1,3 +1,6 @@
+![Header](./sapan-header-banner.png)
+
+
 ### 👋 Hi there, I'm Sapan Kumer
 
 I'm a **Senior Software Engineer** at **Mir Info Systems Ltd.** with over **8 years** of professional experience specializing in PHP, Drupal, and MySQL.
