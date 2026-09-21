@@ -3,7 +3,7 @@
 
 ### 👋 Hi there, I'm Sapan Kumer
 
-I'm a **Senior Software Engineer** at **Mir Info Systems Ltd.** with over **8 years** of professional experience specializing in PHP, Drupal, and MySQL.
+I'm a **Senior Software Engineer** at **Mir Info Systems Ltd.** with over **8 years** of professional experience specializing in PHP,laravel, Drupal, and MySQL.
 
 I have had the opportunity to work on significant projects, including the **Grameenphone Website**, **GP Shop**, **Air Astra Web**,**Nestlé Bangladesh**, **IFIC Intranet Portal**, **BKash Web**, **BTRC** and **GPFI**.
 
