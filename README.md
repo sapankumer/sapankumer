@@ -48,15 +48,6 @@ A passionate **Senior Software Engineer** with **9+ years of professional experi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sapankumer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapankumer&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/sapan-kumer](https://linkedin.com/in/sapan-kumer/)
